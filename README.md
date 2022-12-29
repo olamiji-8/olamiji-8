@@ -13,8 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olamiji-8&show_icons=false&locale=en&langs_count=15" alt="olamiji-8" /></p>
 
-
-
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olamiji-8&" alt="olamiji-8"/></p>
 
 
